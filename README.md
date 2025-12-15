@@ -1,3 +1,4 @@
+<img width="1920" height="1080" alt="Screenshot (22)" src="https://github.com/user-attachments/assets/ff517ffc-ad58-4ea8-bff8-d3421fdb6530" />
 # BOOLEAN_FUNCTION_MINIMIZATION
 
 **AIM:**
@@ -40,11 +41,14 @@ Developed by: RegisterNumber:*/
 
 **RTL realization**
 
+
 **Output:**
 
 **RTL**
+<img width="1920" height="1080" alt="Screenshot (22)" src="https://github.com/user-attachments/assets/408c9da5-5d15-479f-ac5b-115efc4eb73b" />
 
 **Timing Diagram**
+<img width="1920" height="1080" alt="Screenshot (43)" src="https://github.com/user-attachments/assets/15b862e9-bf6a-4bc2-ab45-c7efeff6e334" />
 
 **Result:**
 
